@@ -4,8 +4,7 @@ This repository contains the code for a skin cancer detection system developed f
 
 ## Project Overview
 
-![Uploading image.png…]()
-
+<img width="560" alt="image" src="https://github.com/user-attachments/assets/e9b65ad2-db5a-4f88-ac4d-6a75d0998eda" />
 
 This project focuses on developing a robust and accurate binary classification model to identify histologically confirmed skin cancer cases from single-lesion crops of 3D total body photos. The image quality resembles close-up smartphone photos, making the model applicable in telehealth settings where access to specialized care is limited.
 
